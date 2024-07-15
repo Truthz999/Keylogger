@@ -1,7 +1,7 @@
 # Keylogger
 **- Aqui vas a poder descargar un Keylogger Básico, siéntete libre de modificar lo que quieras a tu gusto es código libre!**
 
-**- Este programa te permite registrar todas las entradas del teclado de un ordenador, eres libre de modificarlo a tu gusto.**
+**- Este programa te permite registrar todas las entradas del teclado de un ordenador.**
 
 
 # Code
